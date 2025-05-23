@@ -1,49 +1,43 @@
-# Privacy Policy | سياسة الخصوصية
+Privacy Policy (English)
 
-## English
+Al Rayan Tailor Management App – Privacy Policy
 
-Al Rayan Tailoring ("we", "our", or "us") is committed to protecting your privacy.
+This application is intended for internal use by the staff and management of Al Rayan Tailor. It is not accessible to the public or customers.
 
-### 1. Data Collection
-We do not collect, store, or share any personal data through this app.
+Data Collection:
+The app may collect work-related information such as order details, employee activity, and internal notes. No personal customer data is collected.
 
-### 2. Permissions
-The app may request access to:
-- Internet: To check for order status or updates
-- SMS/Calls (optional): Only if needed to initiate messages via WhatsApp or call the shop
+Data Usage:
+All collected data is used solely for managing tailoring operations, tracking orders, and coordinating staff.
 
-No sensitive data is stored or transmitted.
+Data Sharing:
+We do not share any data with third parties. All information remains within the company.
 
-### 3. Third Parties
-We do not use any third-party analytics or advertising tools.
+Security:
+Access to the app is restricted to authorized personnel only. Internal safeguards are in place to protect data.
 
-### 4. Changes
-We may update this privacy policy. Updates will be published on this page.
+Contact:
+For questions, please contact us directly at our store.
 
-### 5. Contact
-If you have questions about this policy, contact us at: shibrah@shibrarafaqat.com
+⸻
 
----
+سياسة الخصوصية (Arabic)
 
-## العربية
+تطبيق مشغل الريان للخياطة – سياسة الخصوصية
 
-نحن في مشغل الريان للخياطة الرجالية نحرص على حماية خصوصيتكم.
+هذا التطبيق مخصص للاستخدام الداخلي من قبل موظفي وإدارة مشغل الريان للخياطة. وهو غير متاح للجمهور أو العملاء.
 
-### ١. جمع البيانات
-لا نقوم بجمع أو تخزين أو مشاركة أي بيانات شخصية من خلال هذا التطبيق.
+جمع البيانات:
+قد يقوم التطبيق بجمع معلومات تتعلق بطلبات العمل، نشاطات الموظفين، والملاحظات الداخلية. لا يتم جمع أي بيانات شخصية للعملاء.
 
-### ٢. الأذونات
-قد يطلب التطبيق الوصول إلى:
-- الإنترنت: للتحقق من حالة الطلبات
-- الرسائل النصية / الاتصال (اختياري): في حال رغبتك بالتواصل معنا عبر واتساب أو الهاتف
+استخدام البيانات:
+تُستخدم البيانات فقط لإدارة عمليات المشغل، وتتبع الطلبات، وتنظيم مهام الموظفين.
 
-ولا يتم تخزين أو إرسال أي بيانات حساسة.
+مشاركة البيانات:
+لا يتم مشاركة أي بيانات مع أطراف خارجية. جميع المعلومات تبقى ضمن نطاق المشغل.
 
-### ٣. أطراف ثالثة
-لا نستخدم أدوات تحليل أو إعلانات تابعة لطرف ثالث.
+الأمان:
+الوصول إلى التطبيق يقتصر على الموظفين المخولين فقط، ويتم اتخاذ الإجراءات المناسبة لحماية البيانات.
 
-### ٤. التحديثات
-قد نقوم بتحديث سياسة الخصوصية. سيتم نشر أي تحديثات على هذه الصفحة.
-
-### ٥. للتواصل
-للاستفسارات، يرجى الاتصال على الرقم: shibrah@shibrarafaqat.com
+التواصل:
+لأي استفسارات، يرجى التواصل معنا مباشرة في مقر المشغل.
